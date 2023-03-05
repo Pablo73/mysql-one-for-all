@@ -112,7 +112,7 @@ VALUES
   ("Como Nossos Pais", 4, 105, 3),
   ("O Medo de Amar é o Medo de Ser Livre", 5, 207, 3),
   ("Samba em Paris", 6, 267, 4),
-  ("The Bard's Song", 7, 144, 5),
+  ("The Bard's Song", 7, 244, 5),
   ("Feeling Good", 8, 100, 6);
 
    INSERT INTO SpotifyClone.playback_history (id_song, date_playback, id_user)
