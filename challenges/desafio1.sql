@@ -87,7 +87,7 @@ VALUES
   ('Vento de Maio', 2001, 3),
   ('QVVJFA?', 2003, 4),
   ('Somewhere Far Beyond', 2007, 5),
-  ('Nina I Put A Spell On You', 2012, 6);
+  ('I Put A Spell On You', 2012, 6);
 
   INSERT INTO SpotifyClone.user (name_user, age, id_plan, signature_date)
 VALUES
